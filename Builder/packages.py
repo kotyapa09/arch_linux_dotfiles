@@ -10,7 +10,7 @@ DEFAULT_AUR_PACKAGES = [
 ]
 
 BASE_PACKAGES = [
-    "tumbler", "ffmpegthumbnailer", "lsd", "bat", "calc", "neofetch",
+    "tumbler", "ffmpegthumbnailer", "bat", "calc", "neofetch",
     "automake",  "dunst", "gcc", "gedit", "git", "telegram-desktop", "python-pip",
     "gnu-netcat", "htop", "btop", "lxappqearance", "mat2", "mpd", "mpv", "thunar", "ncmpcpp",
     "network-manager-applet", "nitrogen", "pamixer", "papirus-icon-theme", "pavucontrol",  "autoconf", "mpc",

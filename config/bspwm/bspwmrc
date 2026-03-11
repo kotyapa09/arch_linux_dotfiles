@@ -53,6 +53,8 @@ dunst -config $HOME/.config/bspwm/dunstrc &
 pkill battery-alert; ~/bin/battery-alert &
 pgrep -x redshift > /dev/null || redshift &
 
+xray run -c=/home/user/.config/vpn/conf.json
+
 # start compositor
 picom --config $HOME/.config/bspwm/picom_configurations/1.conf &
 

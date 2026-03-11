@@ -5,6 +5,10 @@ DEFAULT_PACKAGES = [
     "blueman", "bluez", "bluez-utils", "brightnessctl",
 ]
 
+DEFAULT_AUR_PACKAGES = [
+    
+]
+
 BASE_PACKAGES = [
     "tumbler", "ffmpegthumbnailer", "lsd", "bat", "calc", "neofetch",
     "automake",  "dunst", "gcc", "gedit", "git", "telegram-desktop", "python-pip",
